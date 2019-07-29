@@ -1,0 +1,10 @@
+““Myn”“textn”“inn”“then”“file > test 
+
+q
+cat test
+test
+printf
+cd ..
+\
+\c
+printf “%s\n” “My text in the filen”
